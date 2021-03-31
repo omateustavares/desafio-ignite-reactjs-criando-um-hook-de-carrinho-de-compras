@@ -1,6 +1,6 @@
 # Challenge Ignite
 
-Essa será uma aplicação onde o seu principal objetivo é criar um hook de carrinho de compras. Você terá acesso a duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio:
+Essa aplicação tinha como o seu principal objetivo criar um hook de carrinho de compras. E teria acesso a duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio:
 
 - Adicionar um novo produto ao carrinho;
 - Remover um produto do carrinho;
@@ -10,3 +10,7 @@ Essa será uma aplicação onde o seu principal objetivo é criar um hook de 
 - Exibição de mensagens de erro;
 - Entre outros.
 
+No desafio foi usado:
+- Fake API com JSON Server;
+- Preservação de dados do carrinho com localStorage API;
+- Mostrar erros com toastify.
